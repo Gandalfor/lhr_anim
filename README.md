@@ -14,5 +14,9 @@ Usage :
 
 Use MOUSE 3 or CAPS LOCK for open
 
+G For poiting animation
+X For handsup
+G/C on Rhodes and Valentine piano to play them
+
 
 =================================================
